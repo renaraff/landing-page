@@ -1,0 +1,15 @@
+.foto{
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    top: 150px;
+}
+.p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.figure{
+    display: flex;
+    background-color: #EFDBDA;
+}
